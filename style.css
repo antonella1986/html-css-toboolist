@@ -1,0 +1,138 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    background-color: white;
+    line-height: 50px;
+    vertical-align: middle;
+    margin-bottom: 1em;
+}
+
+#logo{
+    vertical-align: middle;
+}
+
+#title{
+    font-size: 35px;
+    font-weight: 900;
+    vertical-align: middle;
+}
+
+.container{
+    background-color: #F6F8F9;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+.sections{
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+#add-task{
+    background-color: #14AAF5;
+    border-radius: 5px;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    color: white;
+    font-weight: 500;
+    border: none;
+}
+
+#add-section{
+    background-color: transparent;
+    border-radius: 5px;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    color: #CCD2D6;
+    font-weight: 500;
+    border-color: #CCD2D6;
+}
+
+.titles{
+    font-size: 1.25em;
+    padding-bottom: 0.5em;
+    padding-top: 1em;
+}
+
+.buttons{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-right: 3em;
+}
+
+.blue-button{
+    border-radius: 16px;
+    padding: 10px;
+    border: none;
+    background-color: #14AAF5;
+    color: white;
+    font-weight: 500;
+}
+
+.voci{
+    font-weight: 500;
+    padding-bottom: 1em;
+}
+
+#button2{
+    border-radius: 16px;
+    padding: 10px;
+    border: none;
+    background-color: #14AAF5;
+    color: white;
+    font-weight: 500;
+}
+
+#button3{
+    border-radius: 16px;
+    padding: 10px;
+    border: none;
+    background-color: #AB5DE6;
+    color: white;
+    font-weight: 500;
+}
+
+#button4{
+    border-radius: 16px;
+    padding: 10px;
+    border: none;
+    background-color: #2CC6AB;
+    color: white;
+    font-weight: 500;
+}
+
+#button5{
+    border-radius: 16px;
+    padding: 10px;
+    border: none;
+    background-color: #FF9B00;
+    color: white;
+    font-weight: 500;
+}
+
+#button6{
+    border-radius: 16px;
+    padding: 10px;
+    border: none;
+    background-color: #EC4A9D;
+    color: white;
+    font-weight: 500;
+}
+
+#button7{
+    border-radius: 16px;
+    padding: 10px;
+    border: none;
+    background-color: #A3D116;
+    color: white;
+    font-weight: 500;
+}
