@@ -59,7 +59,6 @@ header{
 
 .titles{
     font-size: 1.25em;
-    padding-bottom: 0.5em;
     padding-top: 1em;
 }
 
@@ -81,6 +80,11 @@ header{
 .voci{
     font-weight: 500;
     padding-bottom: 1em;
+    margin: 0;
+}
+
+#emarginato{
+    padding-top: 1em;
 }
 
 #button2{
@@ -90,6 +94,7 @@ header{
     background-color: #14AAF5;
     color: white;
     font-weight: 500;
+    margin-top: 1em;
 }
 
 #button3{
@@ -99,6 +104,7 @@ header{
     background-color: #AB5DE6;
     color: white;
     font-weight: 500;
+    margin-top: 1em;
 }
 
 #button4{
@@ -108,6 +114,7 @@ header{
     background-color: #2CC6AB;
     color: white;
     font-weight: 500;
+    margin-top: 1em;
 }
 
 #button5{
@@ -117,6 +124,7 @@ header{
     background-color: #FF9B00;
     color: white;
     font-weight: 500;
+    margin-top: 1em;
 }
 
 #button6{
@@ -126,6 +134,7 @@ header{
     background-color: #EC4A9D;
     color: white;
     font-weight: 500;
+    margin-top: 1em;
 }
 
 #button7{
@@ -135,4 +144,21 @@ header{
     background-color: #A3D116;
     color: white;
     font-weight: 500;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.check{
+    color: #A3D116;
+    width: 20px;
+    height: 20px;
+
+}
+
+.cross{
+    color: red;
+}
+
+li{
+    list-style: none;
 }
